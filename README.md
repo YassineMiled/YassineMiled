@@ -1,14 +1,13 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Yassine Miled!
+# Hi, I'm Yassine Miled 👋
 
-### 💻 Full Stack Developer | 📊 Data & Artificial Intelligence
+### Full Stack Developer · Data & Artificial Intelligence
 
 📍 **Based in France**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Development;Data+Analysis+%26+Big+Data;SAP+%26+Business+Intelligence;Artificial+Intelligence)](https://git.io/typing-svg)
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-miled/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YassineMiled)
@@ -17,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Full Stack Developer** with a degree in **Computer Science (BTS SIO SLAM)**, currently pursuing a **third-year Bachelor's degree in Computer Science, specializing in AI & Big Data at CNAM**.
 
@@ -27,11 +26,11 @@ Passionate about technology, I enjoy building innovative solutions, solving prob
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ Tech Stack
 
 <div align="center">
 
-### 🌐 Frontend
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -41,7 +40,7 @@ Passionate about technology, I enjoy building innovative solutions, solving prob
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### ⚙️ Backend & Programming
+### Backend & Programming
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,13 +49,13 @@ Passionate about technology, I enjoy building innovative solutions, solving prob
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
 
-### 📊 Data, BI & Artificial Intelligence
+### Data, BI & Artificial Intelligence
 
 ![SAP](https://img.shields.io/badge/SAP-0FA6D4?style=for-the-badge&logo=sap&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-2563EB?style=for-the-badge&logoColor=white)
@@ -66,7 +65,7 @@ Passionate about technology, I enjoy building innovative solutions, solving prob
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-9333EA?style=for-the-badge&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white)
 
-### 🔧 Tools & Cloud
+### Tools & Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
@@ -84,23 +83,23 @@ Passionate about technology, I enjoy building innovative solutions, solving prob
 
 ## 💼 Professional Experience
 
-### 🏢 Alaia — SAP & Data Apprentice
-📅 **September 2026 – September 2027 | Present**
+### Alaia — SAP & Data Apprentice
+**September 2026 – September 2027 | Present**
 
 - Working with **SAP** and business applications.
 - Managing and monitoring **dashboards**.
 - Performing **data analysis** and reporting.
 - Training in **artificial intelligence tools and technologies**.
 
-### 💻 Lambda Labs — Full Stack Developer Intern
-📅 **December 2024 – January 2025**
+### Lambda Labs — Full Stack Developer Intern
+**December 2024 – January 2025**
 
 - Developed a CRM application and APIs.
 - Built an anti-spam middleware and newsletter system.
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS, MongoDB.
 
-### 📊 Cefisi — Data Scientist Intern
-📅 **May 2024 – July 2024**
+### Cefisi — Data Scientist Intern
+**May 2024 – July 2024**
 
 - Data analysis and visualization.
 - Motion detection using MediaPipe.
@@ -111,16 +110,15 @@ Passionate about technology, I enjoy building innovative solutions, solving prob
 
 ## 🎓 Education
 
-### 🎓 Bachelor's Degree (Year 3) — Computer Science, AI & Big Data
+### Bachelor's Degree (Year 3) — Computer Science, AI & Big Data
 **CNAM | September 21, 2026 – September 21, 2027**
 
-📚 Currently enrolled — Artificial Intelligence & Big Data.
+Currently enrolled — Artificial Intelligence & Big Data.
 
-### 🎓 BTS SIO — Software Development (SLAM)
+### BTS SIO — Software Development (SLAM)
 **Lycée Turgot | 2023 – 2025**
 
-✅ Graduated — Software Solutions and Business Applications.
+Graduated — Software Solutions and Business Applications.
 
-### 🎓 Technological Baccalaureate
+### Technological Baccalaureate
 **Cité Scolaire André Chamson | 2021 – 2022**
-
