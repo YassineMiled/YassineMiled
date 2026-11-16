@@ -3,7 +3,7 @@
 # 👋Hi, I'm Yassine Miled
 
 ### 💻 Full Stack Developer | 📊 Data Analyst
-
+### - 📍 Based in France
 **Building modern applications & turning data into insights.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-miled/)
@@ -26,7 +26,7 @@ I enjoy building web applications, solving technical challenges, and transformin
 - 🧠 Always exploring new technologies
 - 🛠️ Building practical and innovative projects
 - 🎯 Focused on clean code and continuous improvement
-- 📍 Based in France
+
 
 ---
 
