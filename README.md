@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, je suis MILED Yassine
+# 👋Hi, I'm Yassine Miled
 
 ### 💻 Full Stack Developer | 📊 Data Analyst
 
